@@ -46,6 +46,10 @@ The platform helps raise awareness about eco-friendly shopping by determining wh
 <img width="737" height="493" alt="Image" src="https://github.com/user-attachments/assets/734cc8a5-a78d-4a7e-8d1c-ac0c77a5e701" />
 <img width="768" height="515" alt="Image" src="https://github.com/user-attachments/assets/f7739748-bfeb-4094-abfb-1b9cbf46565d" />
 
+## Output
+
+
+
 
 
 
