@@ -1,4 +1,4 @@
-# Name: S.Abinaya hi
+# Name: S.Abinaya
 
 # Ecocart-Miniproject
 # EcoCart 🌱  
