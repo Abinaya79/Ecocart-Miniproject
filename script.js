@@ -16,19 +16,19 @@ const products = [
     name: "Eco-Friendly Detergent",
     price: 249,
     ecoScore: 8,
-    image: 
+    image: "Screenshot 2025-11-10 224919.png"
   },
   {
     name: "Organic Cotton Bag",
     price: 149,
     ecoScore: 10,
-    image: "./cotton bag.jpg"
+    image: "Screenshot 2025-08-14 093852.png"
   },
   {
     name: "Compostable Plates",
     price: 89,
     ecoScore: 7,
-    image: "./plate.jpg"
+    image: "Screenshot 2025-08-14 094543.png"
   }
 ];
 
