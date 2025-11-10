@@ -4,19 +4,19 @@ const products = [
     name: "Bamboo Toothbrush",
     price: 99,
     ecoScore: 9,
-    image: "./bamboo toothbrush.jpg"
+    image: "bamboothoothbrush.png"
   },
   {
     name: "Reusable Water Bottle",
     price: 199,
     ecoScore: 8,
-    image: "./reusable water bottle.jpeg"
+    image: "Screenshot 2025-08-14 094605.png"
   },
   {
     name: "Eco-Friendly Detergent",
     price: 249,
     ecoScore: 8,
-    image: "./detergents.jpg"
+    image: 
   },
   {
     name: "Organic Cotton Bag",
